@@ -1,0 +1,55 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: -webkit-gradient(linear-gradient(90deg, #38384b 0%, #000014 100%));
+    background-image: linear-gradient(90deg, #38384b 0%, #000014 100%);
+    color: #ffffff;
+}
+
+.introPage,
+.startPage {
+    display: none;
+}
+
+/* main section css */
+
+.mainSection {
+    /* background-image: -webkit-gradient(linear, left top, right top, from(#00b9a7), to(#031997));
+    background-image: linear-gradient(90deg, #00b9a7 0%, #031997 100%);
+    color: #ffffff; */
+    padding: 6em 1.5em;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.btn-secondary {
+    border-radius: 30px;
+    padding: 12px 70px;
+    background-color: #EA9600;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #EA9600;
+}
+
+/* CSS for Three Steps */
+
+.welcomePage {
+    background-color: white;
+    color: black;
+}
+
+.card {
+    border: none !important;
+}
+
+.instr {
+    text-decoration: underline;
+}

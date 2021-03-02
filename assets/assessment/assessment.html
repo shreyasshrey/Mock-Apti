@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <title>Mock Quiz</title> -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/main.css" rel="stylesheet">
+    <link href="assets/css/assessment.css" rel="stylesheet">
+</head>
+
+<body>
+    <section class="main-content">
+
+        <!-- ------------------------Timer part------------------------ -->
+
+        <div class="timerpart py-4">
+            <div class="row text-center">
+                <div class="col">
+                    <div class="btn timer" id="demo"></div>
+                </div>
+            </div>
+        </div>
+        <!-- ------------------------Progress bar part------------------------ -->
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col">
+                    <h4 class="presentQues"></h4>
+                </div>
+            </div>
+            <div id="progress">
+                <div id="bar"></div>
+            </div>
+        </div>
+
+        <!-- <button class="btn btn-primary" id="nextBtn">Next</button> -->
+
+        <!-- ------------------------quiz question part------------------------ -->
+
+        <div class="assessment">
+            <div class="quiz-part">
+                <div class="row text-center">
+                    <div class="col-sm-12 mb-2">
+                        <div class="questPart">
+                            <span class="quesNoBox" id="quesNo"></span>
+                            <span class="quesBox" id="quesTxt"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row optPart py-3">
+                    <div class="col-sm-6">
+                        <div class="optBox mb-2" id="opt1"></div>
+                        <div class="optBox mb-2" id="opt2"></div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="optBox mb-2" id="opt3"></div>
+                        <div class="optBox mb-2" id="opt4"></div>
+                    </div>
+                </div>
+                <div class="finalizepart mt-3">
+                    <div class="row text-center">
+                        <div class="col">
+                            <div class="btn submitBtn" id="confirmYES" type="button">Submit</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ------------------------Modal part------------------------ -->
+
+        <div class="modal" tabindex="-1">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Your Score</h5>
+                        <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
+                    </div>
+                    <div class="modal-body">
+                        <!-- <p>Modal body text goes here.</p> -->
+                    </div>
+                    <!-- <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+<script type="text/javascript" src="../scripts/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="assets/js/assessment.js"></script>
+
+</html>

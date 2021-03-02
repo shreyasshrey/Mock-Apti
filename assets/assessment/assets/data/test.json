@@ -1,0 +1,156 @@
+{
+	"duration":"30:00",
+	"quesList":{
+		"ques1":{
+			"quesTxt":"Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:",
+			"options":["40","80","120","200"],
+			"correctAns":"40"
+		},
+		"ques2":{
+			"quesTxt":"The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:",
+			"options":["1","2","3","4"],
+			"correctAns":"2"
+		},
+		"ques3":{
+			"quesTxt":"The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2 ?",
+			"options":["4","8","16","None of these"],
+			"correctAns":"8"
+		},
+		"ques4":{
+			"quesTxt":"The sum of two number is 25 and their difference is 13. Find their product.",
+			"options":["104","114","315","325"],
+			"correctAns":"114"
+		},
+		"ques5":{
+			"quesTxt":"If Rs. 10 be allowed as true discount on a bill of Rs. 110 due at the end of a certain time, then the discount allowed on the same sum due at the end of double the time is:",
+			"options":["Rs. 20","Rs. 21.81","Rs. 22","Rs. 18.33"],
+			"correctAns":"Rs. 18.33"
+		},
+		"ques6":{
+			"quesTxt":"Two goods train each 500 m long, are running in opposite directions on parallel tracks. Their speeds are 45 km/hr and 30 km/hr respectively. Find the time taken by the slower train to pass the driver of the faster one.",
+			"options":["12 sec","24 sec","48 sec","60 sec"],
+			"correctAns":"24 sec"
+		},
+		"ques7":{
+			"quesTxt":"A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+			"options":["12 days","15 days","16 days","18 days"],
+			"correctAns":"15 days"
+		},
+		"ques8":{
+			"quesTxt":"If log<sub>x</sub> y = 100 and log<sub>2</sub> x = 10, then the value of y is:",
+			"options":["2<sup>10</sup>","2<sup>100</sup>","2<sup>1000</sup>","2<sup>10000</sup>"],
+			"correctAns":"2<sup>1000</sup>"
+		},
+		"ques9":{
+			"quesTxt":"Insert the missing number. 11, 13, 17, 19, 23, 29, 31, 37, 41, (....)",
+			"options":["43","47","53","51"],
+			"correctAns":"43"
+		},
+		"ques10":{
+			"quesTxt":"Find the odd man out. 835, 734, 642, 751, 853, 981, 532",
+			"options":["751","853","981","532"],
+			"correctAns":"751"
+		},
+		"ques11":{
+			"quesTxt":"331, 482, 551, 263, 383, 362, 284",
+			"options":["263","383","331","551"],
+			"correctAns":"383"
+		},
+		"ques12":{
+			"quesTxt":"A father said to his son, 'I was as old as you are at the present at the time of your birth'. If the father's age is 38 years now, the son's age five years back was:",
+			"options":["14 years","19 years","33 years","38 years"],
+			"correctAns":"14 years"
+		},
+		"ques13":{
+			"quesTxt":"From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:",
+			"options":["149 m","156 m","173 m","200 m"],
+			"correctAns":"173 m"
+		},
+		"ques14":{
+			"quesTxt":"An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1 hours, it must travel at a speed of:",
+			"options":["300 kmph","360 kmph","600 kmph","720 kmph"],
+			"correctAns":"720 kmph"
+		},
+		"ques15":{
+			"quesTxt":"In the first 10 overs of a cricket game, the run rate was only 3.2. What should be the run rate in the remaining 40 overs to reach the target of 282 runs?",
+			"options":["6.25","6.5","6.75","7"],
+			"correctAns":"6.25"
+		},
+		"ques16":{
+			"quesTxt":"The expression (11.98 x 11.98 + 11.98 x x + 0.02 x 0.02) will be a perfect square for x equal to:",
+			"options":["0.02","0.2","0.04","0.4"],
+			"correctAns":"0.04"
+		},
+		"ques17":{
+			"quesTxt":"Find out the wrong number in the series. 40960, 10240, 2560, 640, 200, 40, 10",
+			"options":["640","40","200","2560"],
+			"correctAns":"200"
+		},
+		"ques18":{
+			"quesTxt":"Find out the wrong number in the series. 10, 26, 74, 218, 654, 1946, 5834",
+			"options":["26","74","218","654"],
+			"correctAns":"654"
+		},
+		"ques19":{
+			"quesTxt":"Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+			"options":["4","7","9","13"],
+			"correctAns":"4"
+		},
+		"ques20":{
+			"quesTxt":"Which of the following fraction is the largest ?",
+			"options":["7/8","13/16","31/40","63/80"],
+			"correctAns":"7/8"
+		},
+		"ques21":{
+			"quesTxt":"The least perfect square, which is divisible by each of 21, 36 and 66 is:",
+			"options":["213444","214344","214434","231444"],
+			"correctAns":"213444"
+		},
+		"ques22":{
+			"quesTxt":"If 20% of a = b, then b% of 20 is the same as:",
+			"options":["4% of a","5% of a","20% of a","None of these"],
+			"correctAns":"4% of a"
+		},
+		"ques23":{
+			"quesTxt":"3 pumps, working 8 hours a day, can empty a tank in 2 days. How many hours a day must 4 pumps work to empty the tank in 1 day?",
+			"options":["9","10","11","12"],
+			"correctAns":"12"
+		},
+		"ques24":{
+			"quesTxt":"A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+			"options":["4","5","6","10"],
+			"correctAns":"5"
+		},
+		"ques25":{
+			"quesTxt":"A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+			"options":["Rs. 2000","Rs. 10,000","Rs. 15,000","Rs. 20,000"],
+			"correctAns":"Rs. 15,000"
+		},
+		"ques26":{
+			"quesTxt":"A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+			"options":["20","24","30","33"],
+			"correctAns":"30"
+		},
+		"ques27":{
+			"quesTxt":"A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:",
+			"options":["gains Rs. 55","gains Rs. 50","loses Rs. 30","gains Rs. 30"],
+			"correctAns":"gains Rs. 50"
+		},
+		"ques28":{
+			"quesTxt":"The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:",
+			"options":["3500","4000","4050","5000"],
+			"correctAns":"4000"
+		},
+		"ques29":{
+			"quesTxt":"The sum of two number is 25 and their difference is 13. Find their product.",
+			"options":["114","104","315","325"],
+			"correctAns":"114"
+		},
+		"ques30":{
+			"quesTxt":"A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B?",
+			"options":["7","8","9","10"],
+			"correctAns":"10"
+		}
+	}
+}
+

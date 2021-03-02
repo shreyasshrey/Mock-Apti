@@ -1,0 +1,112 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: -webkit-gradient(linear-gradient(90deg, #38384b 0%, #000014 100%));
+    background-image: linear-gradient(90deg, #38384b 0%, #000014 100%);
+    color: #ffffff;
+}
+
+.assessment {
+    display: none;
+}
+
+
+.quiz-part {
+    /* background: linear-gradient(90deg, #656d6c 0%, #000000 100%); */
+    /* background-image: linear-gradient(90deg, #00b9a7 0%, #031997 100%); */
+    /* background: radial-gradient(circle, #1d1b1b, white); */
+    /* background-image: linear-gradient(90deg, #00b9a7 0%, #031997 100%); */
+    /* background-image: url('../images/794288.jpg'); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+.questPart {
+    border: 2px solid white;
+    padding: 20px;
+    /* background-color: #0e25ab; */
+    font-size: 24px;
+    /* background-image: linear-gradient(90deg, #00b9a7 0%, #031997 100%); */
+    border-radius: 20px 0px 20px 0px;
+    background: #000D27;
+    border: 3px solid #EA9600;
+}
+
+.optPart {
+    font-size: 20px;
+}
+
+.optBox {
+    border: 2px solid white;
+    padding: 10px;
+    /* background: #0e25ab; */
+    /* background-image: linear-gradient(90deg, #00b9a7 0%, #031997 100%); */
+    border-radius: 20px 0px 20px 0px;
+    background: #000D27;
+    border: 3px solid #EA9600;
+    cursor: pointer;
+}
+
+.optBox:hover {
+    background: #00821A;
+}
+
+.selectEnable {
+    /* background: #f90a20; */
+    background: #00821A;
+}
+
+.timer {
+    padding: 10px 50px !important;
+    background: #EA9600 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    cursor: default !important;
+    /* border: none; */
+}
+
+.timer:hover {
+    color: white !important;
+}
+
+/* .timerpart,
+.quiz-part {
+    display: none;
+} */
+
+.finalizepart {
+    visibility: hidden;
+}
+
+#progress {
+    height: 14px;
+    width: 100%;
+    /* border: 1px solid; */
+    /* padding: 1rem 2rem; */
+    background: #eae7e7;
+    border-radius: 20px;
+}
+
+#bar {
+    height: 14px;
+    width: 0;
+    /* background: red; */
+    /* background: linear-gradient(90deg, #00b9a7 0%, #031997 100%); */
+    border-radius: 6px;
+    background: #EA9600;
+}
+
+.submitBtn {
+    background: #EA9600;
+    padding: 8px 45px;
+    border-radius: 30px;
+}
+
+.modal {
+    color: black;
+}
